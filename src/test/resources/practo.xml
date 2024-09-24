@@ -1,0 +1,9 @@
+<suite name="practo">
+     <test name="test1">
+        <classes>
+        <class name="base.base" />
+            <class name="practoapp.Practo" />
+            
+        </classes>
+     </test>
+</suite>
